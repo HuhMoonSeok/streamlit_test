@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-view = [100,150,50]
+view = [100,150,60]
 st.write('# Title')
 view
 st.write('# bar chart')
